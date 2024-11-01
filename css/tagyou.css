@@ -1,0 +1,19 @@
+.tag-you-suggestion-box {
+  height: auto !important;
+ /* left: 31%;*/
+  list-style: outside none none;
+  margin: 0 !important;
+  max-width: 200px;
+  padding: 0 !important;
+  position: relative;
+  /*top: 20px;*/
+  width: 100%;
+}
+
+.tag-you-suggestion-box li {
+  background: #eee none repeat scroll 0 0;
+  border: 1px solid skyblue;
+  color: skyblue;
+  margin: 0 !important;
+  padding: 4px;
+}

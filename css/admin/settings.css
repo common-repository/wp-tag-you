@@ -1,0 +1,28 @@
+#wpty-settings-container-main{
+	widows: 90%;
+	min-height: 500px;
+	background: #fff;
+}
+#wpty-settings-container-inner h3{
+	padding: 20px;
+	color: #202020;
+}
+#wpty-settings-container-inner table{
+	width: 100%;
+}
+
+#wpty-settings-container-inner table th, #wpty-settings-container-inner table td {
+    text-align: left;
+    width: 30% !important;
+    padding: 2%;
+
+}
+#wpty-settings-container-inner li {
+	list-style-type: none;
+}
+#wpty-settings-container-inner textarea {
+	width:100%;
+	min-height: 200px;
+	background: #fff;
+	
+}
